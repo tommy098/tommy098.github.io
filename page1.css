@@ -1,0 +1,207 @@
+ul li.case {
+    list-style:none;
+    display: inline;
+}
+
+.programming {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+    text-align:center;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.about {
+    text-align:center;
+    font-size: 60px;
+    color: black;
+    text-decoration-line: underline;  
+}
+
+.left {
+    font-size: 30px;
+    background-color: purple;
+    margin-right: 20px ;
+    color: aliceblue;
+    size: auto;
+    display: block;
+}
+
+#get-started-page .section1 {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.purple {
+    background: purple;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    color: white;
+    margin-left:150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80%;
+}
+
+.science {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.middle {
+    margin-left: auto;
+    border-spacing: 20px ;
+    font-size: 50px;
+    padding:4% ;
+
+}
+
+.middlething{
+
+    font-size: 50px;
+    padding: 5px;
+}
+
+.academic {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.middledown {
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 20px ;
+    font-size: 50px;
+    padding:4% ;
+
+}
+
+.middlethingdown{
+
+    font-size: 50px;
+    padding: 5px;
+}
+
+.down{
+text-align: right;
+background-color: black;
+color: white;
+background-repeat: 2;
+}
+
+/*page2*/
+.topleft {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: orange;
+    text-align:center;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.orange {
+    background: purple;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    color: orange;
+    margin-left:150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80%;
+}
+
+ol.one {
+    list-style-type: decimal-leading-zero;
+    margin-left: 200px;
+    color: rgb(255, 5, 5);
+}
+.program {
+    margin-left: 200px;
+    font-weight: bold;
+    font-size: 50px;
+    color: coral;
+}
+
+.background {
+    background-color: rgb(209, 207, 207);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.why {
+    margin-left: 200px;
+    font-weight: bold;
+    font-size: 50px;
+    color: coral;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul.two {    list-style-type:circle;
+    margin-left: 200px;
+    color: rgb(14, 57, 77);
+    font-size: 30px;
+}
+
+/*page3 */
+.school {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 100px;
+    color:whitesmoke;
+    text-align: left;
+    font-weight: bold;
+}
+
+.title {
+    margin-left: 200px;
+    font-weight:bold ;
+    font-size: 50px;
+}  
+
+.margin {
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: 200px;
+}
+th, td {
+    border: 2px solid #0a0303;
+    padding:4%;
+}
+
+h2{
+    display: inline;
+}
